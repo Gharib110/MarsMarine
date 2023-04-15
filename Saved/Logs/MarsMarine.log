@@ -1302,3 +1302,286 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.04.15-08.14.38:655][449]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Health/BP_HealthPickUp.BP_HealthPickUp
 [2023.04.15-08.14.44:019][551]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
 [2023.04.15-08.15.00:027][121]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.04.15-08.15.13:523][305]LogHttp: Warning: 0000022CD7A95600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B40D8F580-43E5-FEDC-8C3C-638245E0CF6E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=e6494d9940af39a2010fadaa8986f91d%7C646360ece76e4bd99fb812c7ed0ec6eb%7Cb72f4ac1-72b4-4fc6-83fb-bf103e2a0204&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.04.15-08.15.13:523][305]LogHttp: Warning: 0000022CD7A95600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.04.15-08.15.13:523][305]LogHttp: Warning: 0000022CD7A95600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.04.15-08.15.13:523][305]LogHttp: Warning: 0000022CD7A95600: libcurl info message cache 1 (Closing connection 8)
+[2023.04.15-08.15.13:856][306]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B40D8F580-43E5-FEDC-8C3C-638245E0CF6E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=e6494d9940af39a2010fadaa8986f91d%7C646360ece76e4bd99fb812c7ed0ec6eb%7Cb72f4ac1-72b4-4fc6-83fb-bf103e2a0204&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.04.15-08.16.13:640][484]LogHttp: Warning: 0000022CD1F53900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B40D8F580-43E5-FEDC-8C3C-638245E0CF6E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=e6494d9940af39a2010fadaa8986f91d%7C646360ece76e4bd99fb812c7ed0ec6eb%7Cb72f4ac1-72b4-4fc6-83fb-bf103e2a0204&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.04.15-08.16.13:640][484]LogHttp: Warning: 0000022CD1F53900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.04.15-08.16.13:640][484]LogHttp: Warning: 0000022CD1F53900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.04.15-08.16.13:640][484]LogHttp: Warning: 0000022CD1F53900: libcurl info message cache 1 (Closing connection 9)
+[2023.04.15-08.16.13:640][484]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B40D8F580-43E5-FEDC-8C3C-638245E0CF6E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=e6494d9940af39a2010fadaa8986f91d%7C646360ece76e4bd99fb812c7ed0ec6eb%7Cb72f4ac1-72b4-4fc6-83fb-bf103e2a0204&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.04.15-08.17.13:445][854]LogHttp: Warning: 0000022CD13BAB00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B40D8F580-43E5-FEDC-8C3C-638245E0CF6E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=e6494d9940af39a2010fadaa8986f91d%7C646360ece76e4bd99fb812c7ed0ec6eb%7Cb72f4ac1-72b4-4fc6-83fb-bf103e2a0204&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.04.15-08.17.13:445][854]LogHttp: Warning: 0000022CD13BAB00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.04.15-08.17.13:445][854]LogHttp: Warning: 0000022CD13BAB00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.04.15-08.17.13:445][854]LogHttp: Warning: 0000022CD13BAB00: libcurl info message cache 1 (Closing connection 10)
+[2023.04.15-08.17.13:446][854]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B40D8F580-43E5-FEDC-8C3C-638245E0CF6E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=e6494d9940af39a2010fadaa8986f91d%7C646360ece76e4bd99fb812c7ed0ec6eb%7Cb72f4ac1-72b4-4fc6-83fb-bf103e2a0204&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.04.15-08.17.39:178][  7]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Health/BP_HealthPickUp.BP_HealthPickUp
+[2023.04.15-08.17.39:722][  7]LogRenderer: Reallocating scene render targets to support 960x512 Format 10 NumSamples 1 (Frame:1).
+[2023.04.15-08.17.42:532][131]LogSlate: Window 'BP_HealthPickUp' being destroyed
+[2023.04.15-08.18.13:101][854]LogHttp: Warning: 0000022CD2050F00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B40D8F580-43E5-FEDC-8C3C-638245E0CF6E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=e6494d9940af39a2010fadaa8986f91d%7C646360ece76e4bd99fb812c7ed0ec6eb%7Cb72f4ac1-72b4-4fc6-83fb-bf103e2a0204&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.04.15-08.18.13:101][854]LogHttp: Warning: 0000022CD2050F00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.04.15-08.18.13:101][854]LogHttp: Warning: 0000022CD2050F00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.04.15-08.18.13:101][854]LogHttp: Warning: 0000022CD2050F00: libcurl info message cache 1 (Closing connection 11)
+[2023.04.15-08.18.13:101][854]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B40D8F580-43E5-FEDC-8C3C-638245E0CF6E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=e6494d9940af39a2010fadaa8986f91d%7C646360ece76e4bd99fb812c7ed0ec6eb%7Cb72f4ac1-72b4-4fc6-83fb-bf103e2a0204&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.04.15-08.18.34:532][ 80]BlueprintLog: New page: Compile BP_HealthPickUp
+[2023.04.15-08.18.34:746][ 80]LogUObjectHash: Compacting FUObjectHashTables data took  10.93ms
+[2023.04.15-08.18.35:127][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Health/BP_HealthPickUp" FILE="D:/Alireza/UnrealProjects/MarsMarine/Content/Blueprints/Health/BP_HealthPickUp.uasset" SILENT=true
+[2023.04.15-08.18.35:138][ 94]LogSavePackage: Moving 'D:/Alireza/UnrealProjects/MarsMarine/Saved/BP_HealthPickUp241C80B54C7D797E053EFEA761A16B1B.tmp' to 'D:/Alireza/UnrealProjects/MarsMarine/Content/Blueprints/Health/BP_HealthPickUp.uasset'
+[2023.04.15-08.18.35:171][ 94]AssetCheck: New page: Asset Save: BP_HealthPickUp
+[2023.04.15-08.18.35:171][ 94]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Health/BP_HealthPickUp.BP_HealthPickUp
+[2023.04.15-08.18.42:755][511]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Health/BP_HealthPickUp" FILE="D:/Alireza/UnrealProjects/MarsMarine/Content/Blueprints/Health/BP_HealthPickUp.uasset" SILENT=true
+[2023.04.15-08.18.42:773][511]LogSavePackage: Moving 'D:/Alireza/UnrealProjects/MarsMarine/Saved/BP_HealthPickUp868CA783447082707884C8A64AADF04E.tmp' to 'D:/Alireza/UnrealProjects/MarsMarine/Content/Blueprints/Health/BP_HealthPickUp.uasset'
+[2023.04.15-08.18.42:807][511]AssetCheck: New page: Asset Save: BP_HealthPickUp
+[2023.04.15-08.18.42:808][511]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Health/BP_HealthPickUp.BP_HealthPickUp
+[2023.04.15-08.18.58:722][845]LogTexture: Display: Building textures: ThumbnailTexture (OODLE_DXT1, 512X512)
+[2023.04.15-08.18.58:722][845]LogStaticMesh: Building static mesh S_Sphere...
+[2023.04.15-08.18.58:756][845]LogStaticMesh: Built static mesh [0.03s] /Game/Effects/Misc/Meshes/General/S_Sphere.S_Sphere
+[2023.04.15-08.18.58:766][845]LogStaticMesh: Building static mesh SM_Health...
+[2023.04.15-08.18.58:793][845]LogStaticMesh: Built static mesh [0.03s] /Game/Effects/Misc/Meshes/Gameplay/Pickups/SM_Health.SM_Health
+[2023.04.15-08.18.58:801][845]LogMaterial: Display: Missing cached shadermap for M_PickUp_Master in PCD3D_SM5, Default, SM5 (DDC key hash: C73216660B136F412D083D4A232BB781480E7549), compiling. 
+[2023.04.15-08.18.58:843][845]LogShaderCompilers: Display: Submitted 24 shader compile jobs with 'Low' priority
+[2023.04.15-08.18.58:853][845]LogShaderCompilers: Display: Started 24 'XGE' shader compile jobs with 'Low' priority
+[2023.04.15-08.18.58:864][845]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2023.04.15-08.18.58:864][845]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2023.04.15-08.18.58:864][845]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.04.15-08.18.58:910][847]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2023.04.15-08.18.58:910][847]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2023.04.15-08.18.58:910][847]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.04.15-08.19.00:680][928]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.15-08.19.00:680][928]LogShaderCompilers: Display: Total job queries 24, among them cache hits 0 (0.00%)
+[2023.04.15-08.19.00:680][928]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2023.04.15-08.19.00:680][928]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1024.00 MB (1.00 GB) budget. Usage: 0.00%
+[2023.04.15-08.19.00:680][928]LogShaderCompilers: Display: ================================================
+[2023.04.15-08.19.02:854][981]BlueprintLog: New page: Compile BP_HealthPickUp
+[2023.04.15-08.19.03:162][981]LogUObjectHash: Compacting FUObjectHashTables data took  17.69ms
+[2023.04.15-08.19.03:638][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Health/BP_HealthPickUp" FILE="D:/Alireza/UnrealProjects/MarsMarine/Content/Blueprints/Health/BP_HealthPickUp.uasset" SILENT=true
+[2023.04.15-08.19.03:652][985]LogSavePackage: Moving 'D:/Alireza/UnrealProjects/MarsMarine/Saved/BP_HealthPickUp17B570BB4F1AC2F99D7FA8A214484C1B.tmp' to 'D:/Alireza/UnrealProjects/MarsMarine/Content/Blueprints/Health/BP_HealthPickUp.uasset'
+[2023.04.15-08.19.03:778][985]AssetCheck: New page: Asset Save: BP_HealthPickUp
+[2023.04.15-08.19.03:778][985]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Health/BP_HealthPickUp.BP_HealthPickUp
+[2023.04.15-08.19.10:007][ 67]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/Effects/Pick-ups/P_Health.P_Health
+[2023.04.15-08.19.10:072][ 67]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Cascade' in 0.0009 seconds. Added 2 classes and 2 folders.
+[2023.04.15-08.19.13:100][177]LogHttp: Warning: 0000022CA1973900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B40D8F580-43E5-FEDC-8C3C-638245E0CF6E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=e6494d9940af39a2010fadaa8986f91d%7C646360ece76e4bd99fb812c7ed0ec6eb%7Cb72f4ac1-72b4-4fc6-83fb-bf103e2a0204&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.04.15-08.19.13:100][177]LogHttp: Warning: 0000022CA1973900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.04.15-08.19.13:101][177]LogHttp: Warning: 0000022CA1973900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.04.15-08.19.13:101][177]LogHttp: Warning: 0000022CA1973900: libcurl info message cache 1 (Closing connection 12)
+[2023.04.15-08.19.13:116][178]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B40D8F580-43E5-FEDC-8C3C-638245E0CF6E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=e6494d9940af39a2010fadaa8986f91d%7C646360ece76e4bd99fb812c7ed0ec6eb%7Cb72f4ac1-72b4-4fc6-83fb-bf103e2a0204&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.04.15-08.19.27:213][976]LogSlate: Window 'Color Picker' being destroyed
+[2023.04.15-08.19.29:297][ 76]LogSlate: Window 'Color Picker' being destroyed
+[2023.04.15-08.19.30:952][167]LogScript: Warning: Accessed None trying to read property Marine
+	Anime_BP_Marine_C /Engine/Transient.World_3:PersistentLevel.BP_Marine_C_0.CharacterMesh0.Anime_BP_Marine_C_1
+	Function /Game/Characters/Marine/Animations/Anime_BP_Marine.Anime_BP_Marine_C:ExecuteUbergraph_Anime_BP_Marine:00AC
+[2023.04.15-08.19.48:546][210]LogCascade: Quitting Cascade. FXSystem=0x0000022CE4E45510
+[2023.04.15-08.19.48:561][210]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-08.19.48:561][210]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-08.20.13:087][647]LogHttp: Warning: 0000022C723F5600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B40D8F580-43E5-FEDC-8C3C-638245E0CF6E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=e6494d9940af39a2010fadaa8986f91d%7C646360ece76e4bd99fb812c7ed0ec6eb%7Cb72f4ac1-72b4-4fc6-83fb-bf103e2a0204&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.04.15-08.20.13:088][647]LogHttp: Warning: 0000022C723F5600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.04.15-08.20.13:088][647]LogHttp: Warning: 0000022C723F5600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.04.15-08.20.13:088][647]LogHttp: Warning: 0000022C723F5600: libcurl info message cache 1 (Closing connection 13)
+[2023.04.15-08.20.13:099][648]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B40D8F580-43E5-FEDC-8C3C-638245E0CF6E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=e6494d9940af39a2010fadaa8986f91d%7C646360ece76e4bd99fb812c7ed0ec6eb%7Cb72f4ac1-72b4-4fc6-83fb-bf103e2a0204&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.04.15-08.20.58:492][867]BlueprintLog: New page: Compile BP_HealthPickUp
+[2023.04.15-08.20.58:705][867]LogUObjectHash: Compacting FUObjectHashTables data took  11.89ms
+[2023.04.15-08.20.59:161][886]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Health/BP_HealthPickUp" FILE="D:/Alireza/UnrealProjects/MarsMarine/Content/Blueprints/Health/BP_HealthPickUp.uasset" SILENT=true
+[2023.04.15-08.20.59:169][886]LogSavePackage: Moving 'D:/Alireza/UnrealProjects/MarsMarine/Saved/BP_HealthPickUp46D0DC0A423D6F2F7E73298CDE0BB449.tmp' to 'D:/Alireza/UnrealProjects/MarsMarine/Content/Blueprints/Health/BP_HealthPickUp.uasset'
+[2023.04.15-08.20.59:197][886]AssetCheck: New page: Asset Save: BP_HealthPickUp
+[2023.04.15-08.20.59:197][886]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Health/BP_HealthPickUp.BP_HealthPickUp
+[2023.04.15-08.21.13:113][534]LogHttp: Warning: 0000022C2C280100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B40D8F580-43E5-FEDC-8C3C-638245E0CF6E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=e6494d9940af39a2010fadaa8986f91d%7C646360ece76e4bd99fb812c7ed0ec6eb%7Cb72f4ac1-72b4-4fc6-83fb-bf103e2a0204&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.04.15-08.21.13:113][534]LogHttp: Warning: 0000022C2C280100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.04.15-08.21.13:113][534]LogHttp: Warning: 0000022C2C280100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.04.15-08.21.13:113][534]LogHttp: Warning: 0000022C2C280100: libcurl info message cache 1 (Closing connection 14)
+[2023.04.15-08.21.13:113][534]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B40D8F580-43E5-FEDC-8C3C-638245E0CF6E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=e6494d9940af39a2010fadaa8986f91d%7C646360ece76e4bd99fb812c7ed0ec6eb%7Cb72f4ac1-72b4-4fc6-83fb-bf103e2a0204&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.04.15-08.22.13:131][753]LogHttp: Warning: 0000022C2CCC9D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B40D8F580-43E5-FEDC-8C3C-638245E0CF6E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=e6494d9940af39a2010fadaa8986f91d%7C646360ece76e4bd99fb812c7ed0ec6eb%7Cb72f4ac1-72b4-4fc6-83fb-bf103e2a0204&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.04.15-08.22.13:131][753]LogHttp: Warning: 0000022C2CCC9D00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.04.15-08.22.13:131][753]LogHttp: Warning: 0000022C2CCC9D00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.04.15-08.22.13:131][753]LogHttp: Warning: 0000022C2CCC9D00: libcurl info message cache 1 (Closing connection 15)
+[2023.04.15-08.22.13:148][754]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B40D8F580-43E5-FEDC-8C3C-638245E0CF6E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=e6494d9940af39a2010fadaa8986f91d%7C646360ece76e4bd99fb812c7ed0ec6eb%7Cb72f4ac1-72b4-4fc6-83fb-bf103e2a0204&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.04.15-08.22.16:440][942]BlueprintLog: New page: Compile BP_HealthPickUp
+[2023.04.15-08.22.16:517][942]LogUObjectHash: Compacting FUObjectHashTables data took   6.50ms
+[2023.04.15-08.23.13:133][997]LogHttp: Warning: 0000022CD32EC800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B40D8F580-43E5-FEDC-8C3C-638245E0CF6E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=e6494d9940af39a2010fadaa8986f91d%7C646360ece76e4bd99fb812c7ed0ec6eb%7Cb72f4ac1-72b4-4fc6-83fb-bf103e2a0204&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.04.15-08.23.13:134][997]LogHttp: Warning: 0000022CD32EC800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.04.15-08.23.13:134][997]LogHttp: Warning: 0000022CD32EC800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.04.15-08.23.13:134][997]LogHttp: Warning: 0000022CD32EC800: libcurl info message cache 1 (Closing connection 16)
+[2023.04.15-08.23.13:140][998]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B40D8F580-43E5-FEDC-8C3C-638245E0CF6E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=e6494d9940af39a2010fadaa8986f91d%7C646360ece76e4bd99fb812c7ed0ec6eb%7Cb72f4ac1-72b4-4fc6-83fb-bf103e2a0204&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.04.15-08.23.14:268][ 65]BlueprintLog: New page: Compile BP_HealthPickUp
+[2023.04.15-08.23.14:340][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2023.04.15-08.23.14:954][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Health/BP_HealthPickUp" FILE="D:/Alireza/UnrealProjects/MarsMarine/Content/Blueprints/Health/BP_HealthPickUp.uasset" SILENT=true
+[2023.04.15-08.23.14:961][ 94]LogSavePackage: Moving 'D:/Alireza/UnrealProjects/MarsMarine/Saved/BP_HealthPickUpF4F900CD4D38CC5EB877E9AF28241F88.tmp' to 'D:/Alireza/UnrealProjects/MarsMarine/Content/Blueprints/Health/BP_HealthPickUp.uasset'
+[2023.04.15-08.23.14:981][ 94]AssetCheck: New page: Asset Save: BP_HealthPickUp
+[2023.04.15-08.23.14:981][ 94]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Health/BP_HealthPickUp.BP_HealthPickUp
+[2023.04.15-08.24.08:749][319]BlueprintLog: New page: Compile BP_HealthPickUp
+[2023.04.15-08.24.08:888][319]LogUObjectHash: Compacting FUObjectHashTables data took   9.50ms
+[2023.04.15-08.24.13:077][567]LogHttp: Warning: 0000022CC97BF900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B40D8F580-43E5-FEDC-8C3C-638245E0CF6E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=e6494d9940af39a2010fadaa8986f91d%7C646360ece76e4bd99fb812c7ed0ec6eb%7Cb72f4ac1-72b4-4fc6-83fb-bf103e2a0204&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.04.15-08.24.13:077][567]LogHttp: Warning: 0000022CC97BF900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.04.15-08.24.13:077][567]LogHttp: Warning: 0000022CC97BF900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.04.15-08.24.13:077][567]LogHttp: Warning: 0000022CC97BF900: libcurl info message cache 1 (Closing connection 17)
+[2023.04.15-08.24.13:093][568]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B40D8F580-43E5-FEDC-8C3C-638245E0CF6E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=e6494d9940af39a2010fadaa8986f91d%7C646360ece76e4bd99fb812c7ed0ec6eb%7Cb72f4ac1-72b4-4fc6-83fb-bf103e2a0204&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.04.15-08.24.18:856][912]BlueprintLog: New page: Compile BP_HealthPickUp
+[2023.04.15-08.24.18:975][912]LogUObjectHash: Compacting FUObjectHashTables data took   8.45ms
+[2023.04.15-08.24.19:350][930]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Health/BP_HealthPickUp" FILE="D:/Alireza/UnrealProjects/MarsMarine/Content/Blueprints/Health/BP_HealthPickUp.uasset" SILENT=true
+[2023.04.15-08.24.19:367][930]LogSavePackage: Moving 'D:/Alireza/UnrealProjects/MarsMarine/Saved/BP_HealthPickUpB7C3EE2B44159A6EEE4644AA72C7D01B.tmp' to 'D:/Alireza/UnrealProjects/MarsMarine/Content/Blueprints/Health/BP_HealthPickUp.uasset'
+[2023.04.15-08.24.19:394][930]AssetCheck: New page: Asset Save: BP_HealthPickUp
+[2023.04.15-08.24.19:394][930]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Health/BP_HealthPickUp.BP_HealthPickUp
+[2023.04.15-08.24.32:360][404]BlueprintLog: New page: Compile BP_HealthPickUp
+[2023.04.15-08.24.32:434][404]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2023.04.15-08.24.32:967][434]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Health/BP_HealthPickUp" FILE="D:/Alireza/UnrealProjects/MarsMarine/Content/Blueprints/Health/BP_HealthPickUp.uasset" SILENT=true
+[2023.04.15-08.24.32:981][434]LogSavePackage: Moving 'D:/Alireza/UnrealProjects/MarsMarine/Saved/BP_HealthPickUpD9F863CB41CE3954149A68BCDBFA07C3.tmp' to 'D:/Alireza/UnrealProjects/MarsMarine/Content/Blueprints/Health/BP_HealthPickUp.uasset'
+[2023.04.15-08.24.33:014][434]AssetCheck: New page: Asset Save: BP_HealthPickUp
+[2023.04.15-08.24.33:014][434]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Health/BP_HealthPickUp.BP_HealthPickUp
+[2023.04.15-08.24.56:635][828]LogScript: Warning: Accessed None trying to read property Marine
+	Anime_BP_Marine_C /Engine/Transient.World_3:PersistentLevel.BP_Marine_C_0.CharacterMesh0.Anime_BP_Marine_C_1
+	Function /Game/Characters/Marine/Animations/Anime_BP_Marine.Anime_BP_Marine_C:ExecuteUbergraph_Anime_BP_Marine:00AC
+[2023.04.15-08.24.57:176][859]LogScript: Warning: Accessed None trying to read property Marine
+	Anime_BP_Marine_C /Engine/Transient.World_3:PersistentLevel.BP_Marine_C_0.CharacterMesh0.Anime_BP_Marine_C_1
+	Function /Game/Characters/Marine/Animations/Anime_BP_Marine.Anime_BP_Marine_C:ExecuteUbergraph_Anime_BP_Marine:00AC
+[2023.04.15-08.25.01:447][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Health/BP_HealthPickUp" FILE="D:/Alireza/UnrealProjects/MarsMarine/Content/Blueprints/Health/BP_HealthPickUp.uasset" SILENT=true
+[2023.04.15-08.25.01:470][ 75]LogSavePackage: Moving 'D:/Alireza/UnrealProjects/MarsMarine/Saved/BP_HealthPickUp16A0708E40BA835109A0869ACCE76689.tmp' to 'D:/Alireza/UnrealProjects/MarsMarine/Content/Blueprints/Health/BP_HealthPickUp.uasset'
+[2023.04.15-08.25.01:514][ 75]AssetCheck: New page: Asset Save: BP_HealthPickUp
+[2023.04.15-08.25.01:514][ 75]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Health/BP_HealthPickUp.BP_HealthPickUp
+[2023.04.15-08.25.01:654][ 81]LogScript: Warning: Accessed None trying to read property Marine
+	Anime_BP_Marine_C /Engine/Transient.World_3:PersistentLevel.BP_Marine_C_0.CharacterMesh0.Anime_BP_Marine_C_1
+	Function /Game/Characters/Marine/Animations/Anime_BP_Marine.Anime_BP_Marine_C:ExecuteUbergraph_Anime_BP_Marine:00AC
+[2023.04.15-08.25.01:712][ 84]LogScript: Warning: Accessed None trying to read property Marine
+	Anime_BP_Marine_C /Engine/Transient.World_3:PersistentLevel.BP_Marine_C_0.CharacterMesh0.Anime_BP_Marine_C_1
+	Function /Game/Characters/Marine/Animations/Anime_BP_Marine.Anime_BP_Marine_C:ExecuteUbergraph_Anime_BP_Marine:00AC
+[2023.04.15-08.25.13:407][361]LogHttp: Warning: 0000022CBC984F00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B40D8F580-43E5-FEDC-8C3C-638245E0CF6E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=e6494d9940af39a2010fadaa8986f91d%7C646360ece76e4bd99fb812c7ed0ec6eb%7Cb72f4ac1-72b4-4fc6-83fb-bf103e2a0204&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.04.15-08.25.13:407][361]LogHttp: Warning: 0000022CBC984F00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.04.15-08.25.13:407][361]LogHttp: Warning: 0000022CBC984F00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.04.15-08.25.13:407][361]LogHttp: Warning: 0000022CBC984F00: libcurl info message cache 1 (Closing connection 18)
+[2023.04.15-08.25.13:739][362]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B40D8F580-43E5-FEDC-8C3C-638245E0CF6E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=e6494d9940af39a2010fadaa8986f91d%7C646360ece76e4bd99fb812c7ed0ec6eb%7Cb72f4ac1-72b4-4fc6-83fb-bf103e2a0204&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.04.15-08.26.13:419][540]LogHttp: Warning: 0000022CBC984F00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B40D8F580-43E5-FEDC-8C3C-638245E0CF6E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=e6494d9940af39a2010fadaa8986f91d%7C646360ece76e4bd99fb812c7ed0ec6eb%7Cb72f4ac1-72b4-4fc6-83fb-bf103e2a0204&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.04.15-08.26.13:419][540]LogHttp: Warning: 0000022CBC984F00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.04.15-08.26.13:419][540]LogHttp: Warning: 0000022CBC984F00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.04.15-08.26.13:419][540]LogHttp: Warning: 0000022CBC984F00: libcurl info message cache 1 (Closing connection 19)
+[2023.04.15-08.26.13:419][540]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B40D8F580-43E5-FEDC-8C3C-638245E0CF6E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=e6494d9940af39a2010fadaa8986f91d%7C646360ece76e4bd99fb812c7ed0ec6eb%7Cb72f4ac1-72b4-4fc6-83fb-bf103e2a0204&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.04.15-08.26.41:623][796]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2023.04.15-08.26.50:971][291]LogScript: Warning: Accessed None trying to read property Marine
+	Anime_BP_Marine_C /Engine/Transient.World_3:PersistentLevel.BP_Marine_C_0.CharacterMesh0.Anime_BP_Marine_C_1
+	Function /Game/Characters/Marine/Animations/Anime_BP_Marine.Anime_BP_Marine_C:ExecuteUbergraph_Anime_BP_Marine:00AC
+[2023.04.15-08.26.56:817][585]LogScript: Warning: Accessed None trying to read property Marine
+	Anime_BP_Marine_C /Engine/Transient.World_3:PersistentLevel.BP_Marine_C_0.CharacterMesh0.Anime_BP_Marine_C_1
+	Function /Game/Characters/Marine/Animations/Anime_BP_Marine.Anime_BP_Marine_C:ExecuteUbergraph_Anime_BP_Marine:00AC
+[2023.04.15-08.27.00:651][775]LogScript: Warning: Accessed None trying to read property Marine
+	Anime_BP_Marine_C /Engine/Transient.World_3:PersistentLevel.BP_Marine_C_0.CharacterMesh0.Anime_BP_Marine_C_1
+	Function /Game/Characters/Marine/Animations/Anime_BP_Marine.Anime_BP_Marine_C:ExecuteUbergraph_Anime_BP_Marine:00AC
+[2023.04.15-08.27.05:590][ 18]LogScript: Warning: Accessed None trying to read property Marine
+	Anime_BP_Marine_C /Engine/Transient.World_3:PersistentLevel.BP_Marine_C_0.CharacterMesh0.Anime_BP_Marine_C_1
+	Function /Game/Characters/Marine/Animations/Anime_BP_Marine.Anime_BP_Marine_C:ExecuteUbergraph_Anime_BP_Marine:00AC
+[2023.04.15-08.27.12:052][296]LogScript: Warning: Accessed None trying to read property Marine
+	Anime_BP_Marine_C /Engine/Transient.World_3:PersistentLevel.BP_Marine_C_0.CharacterMesh0.Anime_BP_Marine_C_1
+	Function /Game/Characters/Marine/Animations/Anime_BP_Marine.Anime_BP_Marine_C:ExecuteUbergraph_Anime_BP_Marine:00AC
+[2023.04.15-08.27.13:153][341]LogHttp: Warning: 0000022C011A0800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B40D8F580-43E5-FEDC-8C3C-638245E0CF6E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=e6494d9940af39a2010fadaa8986f91d%7C646360ece76e4bd99fb812c7ed0ec6eb%7Cb72f4ac1-72b4-4fc6-83fb-bf103e2a0204&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.04.15-08.27.13:153][341]LogHttp: Warning: 0000022C011A0800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.04.15-08.27.13:153][341]LogHttp: Warning: 0000022C011A0800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.04.15-08.27.13:153][341]LogHttp: Warning: 0000022C011A0800: libcurl info message cache 1 (Closing connection 20)
+[2023.04.15-08.27.13:181][342]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B40D8F580-43E5-FEDC-8C3C-638245E0CF6E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=e6494d9940af39a2010fadaa8986f91d%7C646360ece76e4bd99fb812c7ed0ec6eb%7Cb72f4ac1-72b4-4fc6-83fb-bf103e2a0204&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.04.15-08.27.15:867][451]LogScript: Warning: Accessed None trying to read property Marine
+	Anime_BP_Marine_C /Engine/Transient.World_3:PersistentLevel.BP_Marine_C_0.CharacterMesh0.Anime_BP_Marine_C_1
+	Function /Game/Characters/Marine/Animations/Anime_BP_Marine.Anime_BP_Marine_C:ExecuteUbergraph_Anime_BP_Marine:00AC
+[2023.04.15-08.27.20:142][574]LogScript: Warning: Accessed None trying to read property Marine
+	Anime_BP_Marine_C /Engine/Transient.World_3:PersistentLevel.BP_Marine_C_0.CharacterMesh0.Anime_BP_Marine_C_1
+	Function /Game/Characters/Marine/Animations/Anime_BP_Marine.Anime_BP_Marine_C:ExecuteUbergraph_Anime_BP_Marine:00AC
+[2023.04.15-08.27.31:335][108]LogScript: Warning: Accessed None trying to read property Marine
+	Anime_BP_Marine_C /Engine/Transient.World_3:PersistentLevel.BP_Marine_C_0.CharacterMesh0.Anime_BP_Marine_C_1
+	Function /Game/Characters/Marine/Animations/Anime_BP_Marine.Anime_BP_Marine_C:ExecuteUbergraph_Anime_BP_Marine:00AC
+[2023.04.15-08.27.31:583][121]LogScript: Warning: Accessed None trying to read property Marine
+	Anime_BP_Marine_C /Engine/Transient.World_3:PersistentLevel.BP_Marine_C_0.CharacterMesh0.Anime_BP_Marine_C_1
+	Function /Game/Characters/Marine/Animations/Anime_BP_Marine.Anime_BP_Marine_C:ExecuteUbergraph_Anime_BP_Marine:00AC
+[2023.04.15-08.27.33:587][225]LogScript: Warning: Accessed None trying to read property Marine
+	Anime_BP_Marine_C /Engine/Transient.World_3:PersistentLevel.BP_Marine_C_0.CharacterMesh0.Anime_BP_Marine_C_1
+	Function /Game/Characters/Marine/Animations/Anime_BP_Marine.Anime_BP_Marine_C:ExecuteUbergraph_Anime_BP_Marine:00AC
+[2023.04.15-08.28.13:091][105]LogHttp: Warning: 0000022CFF59E400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B40D8F580-43E5-FEDC-8C3C-638245E0CF6E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=e6494d9940af39a2010fadaa8986f91d%7C646360ece76e4bd99fb812c7ed0ec6eb%7Cb72f4ac1-72b4-4fc6-83fb-bf103e2a0204&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.04.15-08.28.13:091][105]LogHttp: Warning: 0000022CFF59E400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.04.15-08.28.13:091][105]LogHttp: Warning: 0000022CFF59E400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.04.15-08.28.13:091][105]LogHttp: Warning: 0000022CFF59E400: libcurl info message cache 1 (Closing connection 21)
+[2023.04.15-08.28.13:108][106]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B40D8F580-43E5-FEDC-8C3C-638245E0CF6E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=e6494d9940af39a2010fadaa8986f91d%7C646360ece76e4bd99fb812c7ed0ec6eb%7Cb72f4ac1-72b4-4fc6-83fb-bf103e2a0204&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.04.15-08.28.46:923][644]LogEditorViewport: Clicking on Actor (LMB): BP_HealthPickUp_C (BP_HealthPickUp28)
+[2023.04.15-08.29.13:107][856]LogHttp: Warning: 0000022CFF6CA400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B40D8F580-43E5-FEDC-8C3C-638245E0CF6E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=e6494d9940af39a2010fadaa8986f91d%7C646360ece76e4bd99fb812c7ed0ec6eb%7Cb72f4ac1-72b4-4fc6-83fb-bf103e2a0204&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.04.15-08.29.13:107][856]LogHttp: Warning: 0000022CFF6CA400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.04.15-08.29.13:107][856]LogHttp: Warning: 0000022CFF6CA400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.04.15-08.29.13:107][856]LogHttp: Warning: 0000022CFF6CA400: libcurl info message cache 1 (Closing connection 22)
+[2023.04.15-08.29.13:107][856]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B40D8F580-43E5-FEDC-8C3C-638245E0CF6E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=e6494d9940af39a2010fadaa8986f91d%7C646360ece76e4bd99fb812c7ed0ec6eb%7Cb72f4ac1-72b4-4fc6-83fb-bf103e2a0204&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.04.15-08.29.53:957][755]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TargetPoint5)
+[2023.04.15-08.30.10:328][560]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.04.15-08.30.11:155][597]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TargetPoint6)
+[2023.04.15-08.30.13:128][695]LogHttp: Warning: 0000022D01CDF900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B40D8F580-43E5-FEDC-8C3C-638245E0CF6E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=e6494d9940af39a2010fadaa8986f91d%7C646360ece76e4bd99fb812c7ed0ec6eb%7Cb72f4ac1-72b4-4fc6-83fb-bf103e2a0204&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.04.15-08.30.13:128][695]LogHttp: Warning: 0000022D01CDF900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.04.15-08.30.13:128][695]LogHttp: Warning: 0000022D01CDF900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.04.15-08.30.13:128][695]LogHttp: Warning: 0000022D01CDF900: libcurl info message cache 1 (Closing connection 23)
+[2023.04.15-08.30.13:147][696]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B40D8F580-43E5-FEDC-8C3C-638245E0CF6E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=e6494d9940af39a2010fadaa8986f91d%7C646360ece76e4bd99fb812c7ed0ec6eb%7Cb72f4ac1-72b4-4fc6-83fb-bf103e2a0204&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.04.15-08.30.20:552][ 56]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Mars" FILE="D:/Alireza/UnrealProjects/MarsMarine/Content/Levels/Mars.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.15-08.30.20:658][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   5.51ms
+[2023.04.15-08.30.20:881][ 56]LogSavePackage: Moving 'D:/Alireza/UnrealProjects/MarsMarine/Saved/Mars1A1133E14278898A3F06F99C48B23416.tmp' to 'D:/Alireza/UnrealProjects/MarsMarine/Content/Levels/Mars.umap'
+[2023.04.15-08.30.20:898][ 56]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Mars_BuiltData" FILE="D:/Alireza/UnrealProjects/MarsMarine/Content/Levels/Mars_BuiltData.uasset" SILENT=true
+[2023.04.15-08.30.21:180][ 56]LogSavePackage: Moving 'D:/Alireza/UnrealProjects/MarsMarine/Saved/Mars_BuiltData7F5C5E7847BFC0E6767B03B4324D8C79.tmp' to 'D:/Alireza/UnrealProjects/MarsMarine/Content/Levels/Mars_BuiltData.uasset'
+[2023.04.15-08.30.21:203][ 56]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.15-08.30.21:203][ 56]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Mars_BuiltData.Mars_BuiltData
+[2023.04.15-08.30.21:203][ 56]LogContentValidation: Display: Validating World /Game/Levels/Mars.Mars
+[2023.04.15-08.30.25:564][251]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TargetPoint)
+[2023.04.15-08.30.34:419][689]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.04.15-08.30.35:724][751]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.04.15-08.30.36:210][773]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TargetPoint)
+[2023.04.15-08.30.59:650][959]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.04.15-08.31.00:443][995]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.04.15-08.31.11:970][540]LogEditorViewport: Clicking on Actor (LMB): BP_HealthPickUp_C (BP_HealthPickUp7)
+[2023.04.15-08.31.12:532][565]LogEditorViewport: Clicking on Actor (context menu): BP_HealthPickUp_C (BP_HealthPickUp7)
+[2023.04.15-08.31.13:130][588]LogHttp: Warning: 0000022CF5119D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B40D8F580-43E5-FEDC-8C3C-638245E0CF6E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=e6494d9940af39a2010fadaa8986f91d%7C646360ece76e4bd99fb812c7ed0ec6eb%7Cb72f4ac1-72b4-4fc6-83fb-bf103e2a0204&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.04.15-08.31.13:131][588]LogHttp: Warning: 0000022CF5119D00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.04.15-08.31.13:131][588]LogHttp: Warning: 0000022CF5119D00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.04.15-08.31.13:131][588]LogHttp: Warning: 0000022CF5119D00: libcurl info message cache 1 (Closing connection 24)
+[2023.04.15-08.31.13:131][588]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B40D8F580-43E5-FEDC-8C3C-638245E0CF6E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=e6494d9940af39a2010fadaa8986f91d%7C646360ece76e4bd99fb812c7ed0ec6eb%7Cb72f4ac1-72b4-4fc6-83fb-bf103e2a0204&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.04.15-08.31.15:625][711]Cmd: DELETE
+[2023.04.15-08.31.15:625][711]Cmd: ACTOR DELETE
+[2023.04.15-08.31.15:639][711]LogEditorActor: Deleted Actor: BP_HealthPickUp_C
+[2023.04.15-08.31.15:740][711]LogUObjectHash: Compacting FUObjectHashTables data took   9.10ms
+[2023.04.15-08.31.15:750][711]LogEditorActor: Deleted 1 Actors (0.120 secs)
+[2023.04.15-08.31.16:544][752]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2023.04.15-08.31.19:609][899]Cmd: DUPLICATE
+[2023.04.15-08.31.19:609][899]Cmd: ACTOR DUPLICATE
+[2023.04.15-08.31.20:670][899]LogSlate: Window 'Message' being destroyed
+[2023.04.15-08.31.20:678][899]Message dialog closed, result: No, title: Message, text: Landscape has large number(64) of components, so it will use large amount memory to copy it to the clipboard. Do you want to proceed?
+[2023.04.15-08.31.21:806][958]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2023.04.15-08.31.22:850][ 12]LogEditorViewport: Clicking on Actor (context menu): BP_HealthPickUp_C (BP_HealthPickUp6)
+[2023.04.15-08.31.26:239][174]Cmd: DELETE
+[2023.04.15-08.31.26:239][174]Cmd: ACTOR DELETE
+[2023.04.15-08.31.26:249][174]LogEditorActor: Deleted Actor: BP_HealthPickUp_C
+[2023.04.15-08.31.26:351][174]LogUObjectHash: Compacting FUObjectHashTables data took   8.85ms
+[2023.04.15-08.31.26:355][174]LogEditorActor: Deleted 1 Actors (0.115 secs)
+[2023.04.15-08.32.08:883][319]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2023.04.15-08.32.11:396][438]Cmd: DELETE
+[2023.04.15-08.32.11:396][438]Cmd: ACTOR DELETE
+[2023.04.15-08.32.11:405][438]LogEditorActor: Deleted Actor: Landscape
+[2023.04.15-08.32.11:531][438]LogUObjectHash: Compacting FUObjectHashTables data took   8.14ms
+[2023.04.15-08.32.11:538][438]LogEditorActor: Deleted 1 Actors (0.142 secs)
+[2023.04.15-08.32.13:108][507]LogHttp: Warning: 0000022CF0150800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B40D8F580-43E5-FEDC-8C3C-638245E0CF6E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=e6494d9940af39a2010fadaa8986f91d%7C646360ece76e4bd99fb812c7ed0ec6eb%7Cb72f4ac1-72b4-4fc6-83fb-bf103e2a0204&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.04.15-08.32.13:108][507]LogHttp: Warning: 0000022CF0150800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.04.15-08.32.13:109][507]LogHttp: Warning: 0000022CF0150800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.04.15-08.32.13:109][507]LogHttp: Warning: 0000022CF0150800: libcurl info message cache 1 (Closing connection 25)
+[2023.04.15-08.32.13:125][508]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B40D8F580-43E5-FEDC-8C3C-638245E0CF6E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=e6494d9940af39a2010fadaa8986f91d%7C646360ece76e4bd99fb812c7ed0ec6eb%7Cb72f4ac1-72b4-4fc6-83fb-bf103e2a0204&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.04.15-08.32.13:212][513]Cmd: TRANSACTION UNDO
+[2023.04.15-08.32.13:213][513]LogEditorTransaction: Undo Delete Actors
+[2023.04.15-08.32.13:571][513]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.15-08.32.14:954][561]LogEditorViewport: Clicking on Actor (LMB): BP_HealthPickUp_C (BP_HealthPickUp49)
+[2023.04.15-08.32.15:996][600]LogEditorViewport: Clicking on Actor (context menu): BP_HealthPickUp_C (BP_HealthPickUp49)
+[2023.04.15-08.32.18:966][745]Cmd: DELETE
+[2023.04.15-08.32.18:966][745]Cmd: ACTOR DELETE
+[2023.04.15-08.32.18:975][745]LogEditorActor: Deleted Actor: BP_HealthPickUp_C
+[2023.04.15-08.32.19:095][745]LogUObjectHash: Compacting FUObjectHashTables data took   9.84ms
+[2023.04.15-08.32.19:101][745]LogEditorActor: Deleted 1 Actors (0.135 secs)
+[2023.04.15-08.32.20:150][796]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Mars" FILE="D:/Alireza/UnrealProjects/MarsMarine/Content/Levels/Mars.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.15-08.32.20:247][796]LogUObjectHash: Compacting FUObjectHashTables data took   7.76ms
+[2023.04.15-08.32.20:447][796]LogSavePackage: Moving 'D:/Alireza/UnrealProjects/MarsMarine/Saved/Mars9E36ECA94B8F2398E45A9AA61DB6CA5A.tmp' to 'D:/Alireza/UnrealProjects/MarsMarine/Content/Levels/Mars.umap'
+[2023.04.15-08.32.20:465][796]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Mars_BuiltData" FILE="D:/Alireza/UnrealProjects/MarsMarine/Content/Levels/Mars_BuiltData.uasset" SILENT=true
+[2023.04.15-08.32.20:675][796]LogSavePackage: Moving 'D:/Alireza/UnrealProjects/MarsMarine/Saved/Mars_BuiltDataF294FDB44C2E8AA81F477E82023B5E7F.tmp' to 'D:/Alireza/UnrealProjects/MarsMarine/Content/Levels/Mars_BuiltData.uasset'
+[2023.04.15-08.32.20:698][796]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.15-08.32.20:698][796]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Mars_BuiltData.Mars_BuiltData
+[2023.04.15-08.32.20:698][796]LogContentValidation: Display: Validating World /Game/Levels/Mars.Mars
+[2023.04.15-08.32.20:939][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Mars" FILE="D:/Alireza/UnrealProjects/MarsMarine/Content/Levels/Mars.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.15-08.32.21:015][808]LogUObjectHash: Compacting FUObjectHashTables data took   5.08ms
+[2023.04.15-08.32.21:170][808]LogSavePackage: Moving 'D:/Alireza/UnrealProjects/MarsMarine/Saved/MarsB4454175465CD2056612F099CFF9E61A.tmp' to 'D:/Alireza/UnrealProjects/MarsMarine/Content/Levels/Mars.umap'
+[2023.04.15-08.32.21:184][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Mars_BuiltData" FILE="D:/Alireza/UnrealProjects/MarsMarine/Content/Levels/Mars_BuiltData.uasset" SILENT=true
+[2023.04.15-08.32.21:373][808]LogSavePackage: Moving 'D:/Alireza/UnrealProjects/MarsMarine/Saved/Mars_BuiltData222F1CB9490408981A7749AB2D8278A5.tmp' to 'D:/Alireza/UnrealProjects/MarsMarine/Content/Levels/Mars_BuiltData.uasset'
+[2023.04.15-08.32.21:397][808]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.15-08.32.21:397][808]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Mars_BuiltData.Mars_BuiltData
+[2023.04.15-08.32.21:397][808]LogContentValidation: Display: Validating World /Game/Levels/Mars.Mars
+[2023.04.15-08.32.23:440][911]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
