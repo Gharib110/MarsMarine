@@ -5,5 +5,5 @@ An Arena Record based shooter game which player take control of a marine and sho
 - Continue as best as you Can ;)
 <br/>
 <p align="center">
-  <img src="https://github.com/Gharib110/MarsMarine/blob/main/Screenshot.jpg" title="hover text">
+  <img src="https://github.com/Gharib110/MarsMarine/blob/master/Screenshot.jpg" title="hover text">
 </p>
