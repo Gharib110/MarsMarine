@@ -3,3 +3,7 @@ An Arena Record based shooter game which player take control of a marine and sho
 - Include Mission Area Functionality
 - Health Pickups Feature
 - Continue as best as you Can ;)
+<br/>
+<p align="center">
+  <img src="https://github.com/Gharib110/MarsMarine/blob/main/Screenshot.jpg" title="hover text">
+</p>
